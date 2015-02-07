@@ -13,6 +13,7 @@
 		43524F7D19FD896000B5846B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43524F7C19FD896000B5846B /* Images.xcassets */; };
 		43524F8019FD896000B5846B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 43524F7E19FD896000B5846B /* LaunchScreen.xib */; };
 		43524F8C19FD896000B5846B /* Cat_YearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43524F8B19FD896000B5846B /* Cat_YearsTests.swift */; };
+		43524F9619FD8B0D00B5846B /* cat_face_striped_tabby.png in Resources */ = {isa = PBXBuildFile; fileRef = 43524F9519FD8B0D00B5846B /* cat_face_striped_tabby.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		43524F8519FD896000B5846B /* Cat YearsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		43524F8A19FD896000B5846B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43524F8B19FD896000B5846B /* Cat_YearsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearsTests.swift; sourceTree = "<group>"; };
+		43524F9519FD8B0D00B5846B /* cat_face_striped_tabby.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat_face_striped_tabby.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				43524F7519FD896000B5846B /* AppDelegate.swift */,
 				43524F7719FD896000B5846B /* ViewController.swift */,
+				43524F9519FD8B0D00B5846B /* cat_face_striped_tabby.png */,
 				43524F7919FD896000B5846B /* Main.storyboard */,
 				43524F7C19FD896000B5846B /* Images.xcassets */,
 				43524F7E19FD896000B5846B /* LaunchScreen.xib */,
@@ -194,6 +197,7 @@
 			files = (
 				43524F7B19FD896000B5846B /* Main.storyboard in Resources */,
 				43524F8019FD896000B5846B /* LaunchScreen.xib in Resources */,
+				43524F9619FD8B0D00B5846B /* cat_face_striped_tabby.png in Resources */,
 				43524F7D19FD896000B5846B /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
